@@ -1,0 +1,3 @@
+C:/Users/thiago/Desktop/EDII-Thiago/DISPLAY_TREE (OK - REVSADO)/cmake-build-debug/CMakeFiles/DISPLAY_TREE.dir
+C:/Users/thiago/Desktop/EDII-Thiago/DISPLAY_TREE (OK - REVSADO)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiago/Desktop/EDII-Thiago/DISPLAY_TREE (OK - REVSADO)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
