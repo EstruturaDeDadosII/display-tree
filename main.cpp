@@ -20,7 +20,6 @@ void menu() {
 
 	cout << "1 - Inserir Elemento" << endl;
 	cout << "2 - Imprimir Arvore" << endl;
-	cout << "3 - Balancear Arvore" << endl;
 	cout << "Digite um numero para adicioanar na arvore: ";
 	cin>>escolha;
 
